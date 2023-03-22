@@ -1,0 +1,36 @@
+Requirement with Standard Syntax,sentence1,sentence2,similarity_score,Similarity,New Requirement
+"user register system, system shall allow user select username password account website.",user register system, system shall allow user select username password account website.,0.3954847455024719,1.0,
+"game numbrp resolution, game shall playable",game numbrp resolution, game shall playable,0.35824787616729736,1.0,"Whengame numbrp resolution,then  game shall playable"
+"user access his/her account, system shall allow user enter password username.",user access his/her account, system shall allow user enter password username.,0.41069653630256653,2.0,"Whenuser select level,then  system shall start game."
+"user play tournament, system shall allow user create team tournament.",user play tournament, system shall allow user create team tournament.,0.548650860786438,3.0,"Whenuser select level,then  system shall start game."
+"user participate respective tournament, system shall allow user select respective teams.",user participate respective tournament, system shall allow user select respective teams.,0.44507524371147156,4.0,"Whenuser clear previous level,then  game shall alllow user proceed next level."
+"player participate tournaments, system shall allow play one tournament",player participate tournaments, system shall allow play one tournament,0.47709202766418457,3.0,"Whenuser press setting icon setting popup opens,then  system shall pause game."
+"match played, system shall allow store information match played tournaments.",match played, system shall allow store information match played tournaments.,0.2562078535556793,5.0,"Whenuser close settings,then  system shall start game again."
+"match played, system shall allow stor information team match played.",match played, system shall allow stor information team match played.,0.33437401056289673,2.0,"Whengame shall numbr fully detailed level,then game shall numbr fully detailed level"
+"match played respective touenament, system shall store every outcome match.",match played respective touenament, system shall store every outcome match.,0.2483450323343277,6.0,"Whengame play,then  game shall provide option pause"
+bowler specific bowler id system shall allow store information bowler.,bowler specific bowler id system shall allow store information bowler.,bowler specific bowler id system shall allow store information bowler.,1.000000238418579,7.0,"Whengame pause,then  game shall show resume game"
+"user select level, system shall start game.",user select level, system shall start game.,0.2047976851463318,2.0,"Whenuser saved previous game,then  system shall show new game continue option."
+"user click option button, system shall take user volume slider.",user click option button, system shall take user volume slider.,0.2680232524871826,8.0,"Whenuser saved previous game,then  system shall take user directly game start."
+"ai traffic added, system shall use ai vehicle avoid obstacle follow set waypoints.",ai traffic added, system shall use ai vehicle avoid obstacle follow set waypoints.,0.1851484477519989,2.0,"Whenuser press setting icon setting popup opens,then  system shall pause game."
+"specified rule violated, system shall reduce points.",specified rule violated, system shall reduce points.,0.20981675386428833,9.0,"Whenuser close settings,then  system shall start game again."
+"user clear previous level, game shall alllow user proceed next level.",user clear previous level, game shall alllow user proceed next level.,0.38291579484939575,4.0,"Whenuser sign up,then  system shall allow user play game."
+"user click start button main menu, system shall display vehicle select option.",user click start button main menu, system shall display vehicle select option.,0.2687731683254242,3.0,"Whenuser fight enemies,then  game shall reach end level win"
+"user select vehicle, system shall display selected vehicle selected level.",user select vehicle, system shall display selected vehicle selected level.,0.5272691249847412,11.0,"Whengame shall show health main character,then game shall show health main character"
+"user press exit button, system shall allow user exit game.",user press exit button, system shall allow user exit game.,0.4609319269657135,5.0,
+"user adjust volume slider, system shall change sound level game.",user adjust volume slider, system shall change sound level game.,0.3103634715080261,6.0,"Whengame pause,then  game shall show resume game"
+"pause button click, systen shall hold game.",pause button click, systen shall hold game.,0.12260249257087708,7.0,"Whenuser sign up,then  system shall allow user play game."
+"user click instruction button, system shall display information play game.",user click instruction button, system shall display information play game.,0.25213247537612915,8.0,"Whencreating game,then  system shall allow administrator set maximum number win reach ending game."
+"car drive near sign road, system shall popup traffic sign screen.",car drive near sign road, system shall popup traffic sign screen.,0.45754361152648926,3.0,"Whenuser fight enemies,then  game shall reach end level win"
+"player violates sign, system shall detuct point game.",player violates sign, system shall detuct point game.,0.07169637084007263,3.0,"Whengame shall numbr fully detailed level,then game shall numbr fully detailed level"
+"user logged in, system shall take user main screen.",user logged in, system shall take user main screen.,0.25846582651138306,4.0,"Whengame shall show health main character,then game shall show health main character"
+"user saved previous game, system shall show new game continue option.",user saved previous game, system shall show new game continue option.,0.24567559361457825,4.0,"Whengame play,then  game shall provide option pause"
+"user saved previous game, system shall take user directly game start.",user saved previous game, system shall take user directly game start.,0.30081015825271606,11.0,"Whengame pause,then  game shall show resume game"
+"user press setting icon setting popup opens, system shall pause game.",user press setting icon setting popup opens, system shall pause game.,0.11376485973596573,5.0,
+"user close settings, system shall start game again.",user close settings, system shall start game again.,0.18321213126182556,6.0,
+"user sign up, system shall allow user play game.",user sign up, system shall allow user play game.,0.24825869500637054,14.0,
+"creating game, system shall allow administrator set maximum number win reach ending game.",creating game, system shall allow administrator set maximum number win reach ending game.,0.2776505947113037,20.0,
+"user fight enemies, game shall reach end level win",user fight enemies, game shall reach end level win,0.13873517513275146,7.0,
+game shall numbr fully detailed level,game shall numbr fully detailed level,game shall numbr fully detailed level,1.0,7.0,
+game shall show health main character,game shall show health main character,game shall show health main character,1.0,16.0,
+"game play, game shall provide option pause",game play, game shall provide option pause,0.32836204767227173,8.0,
+"game pause, game shall show resume game,saveload,change setting exit text",game pause, game shall show resume game,0.4791901111602783,9.0,

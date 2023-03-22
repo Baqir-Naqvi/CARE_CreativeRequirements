@@ -1,0 +1,31 @@
+requirements,creative_requirements
+"['doctor', 'able', 'change', 'cancel', 'appointment']","doctor able change appointment
+
+- doctor able cancel appointment
+
+- doctor able cancel
+
+- doctor able change
+
+- doctor cancel appointment
+
+- doctor cancel
+
+- doctor change appointment
+
+- doctor change
+
+- doctor appointment"
+"['doctor', 'able', 'delay', 'appointment', '.']","doctor able delay appointment .
+
+- doctor able delay appointment .
+
+- doctor able delay appointment .
+
+- doctor able delay appointment .
+
+- doctor able delay appointment .
+
+- doctor able delay appointment .
+
+- doctor able"
